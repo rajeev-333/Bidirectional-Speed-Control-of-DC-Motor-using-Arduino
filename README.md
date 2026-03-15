@@ -250,6 +250,13 @@ Arduino-DC-Motor-Control
 ├── Images
 │   └── project_setup.png
 │
+├── Simulation_Diagrams
+│   └── Proteus_Simulation_Model.png
+│   └── Forward_waveform_full_speed(PWM).png
+│    └── Backward_waveform_full_speed(PWM).png
+│    └── Forward_waveform_25%_speed(PWM).png
+│    └── Backward_waveform_25%_speed(PWM).png
+│
 └── README.md
 ```
 
